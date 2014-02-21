@@ -1,0 +1,22 @@
+.buttonAudio{
+width: 180px;
+height: 166px;
+background-color: rgba(99,99,30,0.0);
+float: left;
+margin-left: 13px;
+position: relative;
+margin-bottom: 30px;
+top: -91%;
+left: 111px;
+}
+.buttonAudio2{
+width: 292px;
+height: 197px;
+background-color: rgba(99,0,30,0.0);
+float: left;
+margin-left: 29px;
+position: relative;
+margin-bottom: 34px;
+top: -83%;
+left: 100px;
+}

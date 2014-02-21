@@ -1,0 +1,28 @@
+.audioBnt{
+
+width: 100px;
+height: 100px;
+float: left;
+position: relative;
+top: -92%;
+left: 12%;
+margin-left: 88px;
+margin-bottom: 35px;
+}
+
+.lastLine{
+top: -97%;
+left: 0%;
+margin-left: 132px;
+}
+
+#pag52_ex6{
+
+position:relative;
+top:-99%;
+}
+#jogoMemoria_unidade3{
+    position:relative;
+    top: -90%;
+    left:18%;
+}

@@ -1,0 +1,27 @@
+.audioBnt{
+background-color: rgba(99,0,99,0.5);
+width: 209px;
+height: 188px;
+position: relative;
+margin-left: 175px;
+margin-bottom: 49px;
+top: -90%;
+left: -64px;
+float: left;
+}
+
+.gatosBnt{
+background-color: rgba(0, 87, 99, 0.5);
+width: 137px;
+height: 137px;
+position: relative;
+margin-left: 202px;
+margin-bottom: 53px;
+top: -84%;
+left: -3px;
+float: left;
+}
+#lesson3_pag76{
+    position:relative;
+    top:-100%;
+}

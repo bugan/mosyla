@@ -1,0 +1,23 @@
+.audioBnt{
+background-color: rgba(99,0,99,.0);
+width: 108px;
+height: 100px;
+margin-left: 21px;
+float: left;
+position: relative;
+top: -72%;
+left: 68px;
+margin-bottom: 35px;    
+}
+.lastline{
+    left: 132px;
+}
+.charAudioBnt{
+    position: relative;
+    width: 200px;
+    height: 182px;
+    background-color: rgba(0,99,99,.0);
+    top: -41%;
+    left: 21%;
+    margin-bottom: 10px;
+}

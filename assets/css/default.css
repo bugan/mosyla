@@ -1,0 +1,52 @@
+*{
+    margin: 0; padding: 0; border: 0; font-size: 1em; font: inherit; vertical-align: baseline;
+}
+
+#lightbox{
+	width:100% !important;
+	height:110% !important;
+	background-color:rgba(0,0,0,.7);
+	display:block;
+    position:fixed;
+    z-index :10;
+    top:-10px;   
+ }
+
+#lightbox img{
+position: absolute;
+top: 50%;
+left: 50%;
+width: 50px;
+height: 50px;
+margin-left: 332px;
+margin-top: -295px;   
+}
+#video{
+    position: absolute;
+    width: 717px;
+    height: 540px;
+    top:50%;
+    left:50%;
+    margin-top: -270px;
+    margin-left: -358px;
+}
+
+#conteiner{
+    width: 768px;
+    margin: 0 auto;
+    height: auto;
+    list-style: none;
+    list-style-type: none;
+}
+
+.button-backward{
+	position: fixed;
+    left: 3%;
+    top: 2%;
+}
+
+.button-forward{
+   position: relative;
+   left: 800px;
+   top:-512px;
+}

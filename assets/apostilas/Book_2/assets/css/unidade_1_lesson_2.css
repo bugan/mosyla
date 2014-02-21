@@ -1,0 +1,18 @@
+#pag15_ex6{
+    position:relative;
+    top:-93.2%;
+
+}
+#jogoMemoria{
+position: relative;
+top: -70%;
+left: 17%;
+}
+.audioVideo{
+     background-color:rgba(90,55,90,0);
+     width:768px;
+     position: absolute;
+     height: 380px;
+     top:10px;
+     
+}

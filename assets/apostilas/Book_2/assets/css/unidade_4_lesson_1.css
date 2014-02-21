@@ -1,0 +1,26 @@
+.audioBnt{
+background-color: rgba(99,0,99,.0);
+width: 155px;
+height: 100px;
+float: left;
+position: relative;
+top: -89%;
+left: 103px;
+margin-left: 38px;
+margin-bottom: 84px;
+}
+.lastLine{
+left: 203px;
+}
+
+.toyBnt{
+background-color: rgba(99,0,99,.0);
+width: 129px;
+height: 130px;
+float: left;
+position: relative;
+top: -74.8%;
+left: 164px;
+margin-left: 10px;
+margin-bottom: 9px;
+}

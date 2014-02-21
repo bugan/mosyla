@@ -1,0 +1,19 @@
+.audioBnt{
+
+width: 68px;
+height: 59px;
+position: relative;
+top: -86%;
+float: left;
+margin-right: 41px;
+left: 18%;
+margin-bottom: 65px;
+}
+.segundaLinha{
+    margin-left: -20px;
+}
+#jogoAdvinha{
+    position: relative;
+    top: -42%;
+    
+}

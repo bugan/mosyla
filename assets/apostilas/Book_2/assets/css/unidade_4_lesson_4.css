@@ -1,0 +1,21 @@
+.audioBnt{
+    background-color: rgba(99,60,55,.0);
+width: 158px;
+height: 149px;
+float: left;
+position: relative;
+top: -88%;
+left: 129px;
+margin-left: -4px;
+}
+.down{
+    top:-72%;
+}
+.last{
+    left:85px;
+}
+
+#jogoAdvinha{
+    position:relative;
+    top:-30%;
+}
